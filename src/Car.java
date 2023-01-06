@@ -8,7 +8,6 @@ public class Car {
     Car(String brand) {
         this.brand = brand;
     }
-
     Car (String brand,String model, double engineVolume, String color, Integer year, String country) {
         this.brand = brand;
         this.model = model;
