@@ -63,7 +63,7 @@ public class Main {
         Car audi2 = new Car("Audi", " ", 0,  null, 0, "Германия");
         Car bmw2 = new Car("BMW", null, -1.7, " ", -2021, "Германия");
         Car kia2 = new Car("Kia", " ", -2.4, " ", 0, "Южная Корея");
-        Car hyundai2 = new Car("Hyundai", null, 0, null, -2016,"Южная Корея");
+        Car hyundai2 = new Car("Hyundai", " ", 0, null, -2016,"Южная Корея");
 
         System.out.println(lada2);
         System.out.println(audi2);
